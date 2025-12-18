@@ -90,7 +90,9 @@ public class SecurityConfig {
                 "http://localhost:5500",
                 "https://senaicommunitydeploy-production.up.railway.app",
                 "https://senaicommunityapp.up.railway.app",
-                "https://senaicommunityfront.vercel.app" // A URL que estava dando erro
+                "https://senaicommunityfront.vercel.app",
+                "https://senai-community-deploy2.vercel.app",
+                "https://senaicommunitydeploy2-production.up.railway.app"
         ));
 
         // Métodos permitidos
