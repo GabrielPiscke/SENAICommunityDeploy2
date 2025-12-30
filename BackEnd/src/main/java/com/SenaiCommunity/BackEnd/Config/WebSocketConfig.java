@@ -33,14 +33,8 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
                         "http://localhost:3000", 
                         "null", 
                         "http://127.0.0.1:5502",
-                        "https://senaicommunity.up.railway.app",
-                        "https://senaicommunitydeploy-production.up.railway.app",
-                        "https://senai-community-front.vercel.app",
-                        "https://senaicommunitydeploy.up.railway.app", 
-                        "https://senaicommunityfront.vercel.app",
-                        "https://senaicommunityapp.up.railway.app",
                         "https://senai-community-deploy2.vercel.app",
-                        "https://senaicommunitydeploy2-production.up.railway.app"
+                        "https://senaicommunitydeploy2.onrender.com"
                 )
                 .withSockJS();
     }

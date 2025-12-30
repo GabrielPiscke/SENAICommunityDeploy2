@@ -88,11 +88,8 @@ public class SecurityConfig {
                 "http://127.0.0.1:5502",
                 "http://localhost:3000",
                 "http://localhost:5500",
-                "https://senaicommunitydeploy-production.up.railway.app",
-                "https://senaicommunityapp.up.railway.app",
-                "https://senaicommunityfront.vercel.app",
                 "https://senai-community-deploy2.vercel.app",
-                "https://senaicommunitydeploy2-production.up.railway.app"
+                "https://senaicommunitydeploy2.onrender.com"
         ));
 
         // Métodos permitidos
